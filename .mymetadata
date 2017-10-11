@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="bmg Maven Webapp"
+  id="myeclipse.1507687742783"
+  context-root="/bmg"
+  j2ee-spec="6.0"
+  archive="bmg Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
